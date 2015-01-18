@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Migrador Link
+Plugin Name: Migrador de Link
 Plugin URI: http://www.seutec.com.br/migrador-de-link/
 Description: Este plug redireciona links permanentes antigos para a sua nova estrutura de links sem quebrar.
 Author: Portal Seutec
-Version: 0.2
+Version: 0.1
 Author URI: http://www.seutec.com.br
 */ 
 
