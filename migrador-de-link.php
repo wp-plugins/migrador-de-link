@@ -104,7 +104,7 @@ function dean_pm_options_page()
 		//$wp_rewrite->generate_rewrite_rule($old_permalink_structure, false, false, false, true);
 		$dean_pm_config['oldstructure'] = $old_permalink_structure;
 		update_option("dean_pm_options",$dean_pm_config);
-		$message.=__('Configurações de Atualização', 'migrador_link');
+		$message.=__('Configurações atualizadas', 'migrador_link');
 
 		//Print out the message to the user, if any
 		if($message!="") {
@@ -121,7 +121,7 @@ function dean_pm_options_page()
 					<fieldset name="sm_basic_options"  class="options">
 					<legend><?php _e('Configurações', 'migrador_link') ?></legend>
 					<ul>
-					<li><strong>Old Permalink Structure:</strong>:<input type="text" size="50" name="old_struct" value="<?php echo $dean_pm_config['oldstructure'];?>"/>
+					<li><strong>Antigo Permalink Structure</strong>:<input type="text" size="50" name="old_struct" value="<?php echo $dean_pm_config['oldstructure'];?>"/>
 						</li>
 						</ul>
 					</fieldset>
@@ -131,6 +131,17 @@ function dean_pm_options_page()
 					<p><?php echo str_replace("%s","<a href=\"http://www.seutec.com.br/migrador-de-link/\">http://www.seutec.com.br/migrador-de-link/</a>",__("Procurar novas atualizações e melhorias.",'migrador_link')); ?></p>
 				</fieldset>
 				</form></div>
+<p>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 728x90- -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-6865424275321467"
+     data-ad-slot="4308309830"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<p>
 <?php
 
 }

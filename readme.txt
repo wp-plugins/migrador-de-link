@@ -1,0 +1,72 @@
+=== Migrador de Lin ===
+Contributors: seutec
+Tags: migrador, migrator, link
+Requires at least: 3.5
+Tested up to: 4.1
+Stable tag: trunk
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Plug Oficial do Portal Seutec - O Portal da Tecnologia!
+== Description ==
+
+
+[Visite a Central do Plug](http://www.seutec.com.br/migrador-de-link) para mais informações.
+
+== Installation ==
+
+Veja também [Documentação](http://www.seutec.com.br/migrador-de-link).
+
+
+Certifique-se de atender aos requisitos mínimos do sistema.
+
+* PHP version 5.2.0 or greater.
+* WordPress version 3.5 or greater.
+* Ability to install third-party WordPress plugins.
+* Site hosted outside WordPress.com. WordPress.com [does not allow](http://en.support.wordpress.com/plugins/) this plugin on its hosted sites.
+
+Faça login na sua conta WordPress e visite a página do site de administração. Você pode rapidamente visualizar esta página, se você clicar no ícone do WordPress no canto superior esquerdo do seu site WordPress. Note que você deve ter permissão como um administrador de seu site para instalar plugins. Se precisar de ajuda, tente [Suporte WordPress](http://wordpress.org/support/).
+
+No site de administração da barra lateral, clique em Plugins e selecione Adicionar Novo. Digite "Migrador de Link" na barra de pesquisa e clique em Pesquisar Plugins.
+
+Encontre o Migrador de Link Plugin na lista de resultados e clique no link Instalar agora.
+
+Neste ponto, WordPress deve instalar automaticamente o plugin.
+
+Se você tiver qualquer problema com a instalação automática, você pode experimentá-lo manualmente. Para fazer isso:
+
+* Visite o [WordPress plugin directory](https://wordpress.org/plugins/migrador-de-link/) página para o Plugin Migrador de Link. Se você não ver a página de plugin, digite "Migrador de Link" à busca Plugins caixa à esquerda e clique em Pesquisar.
+* Faça o download do plugin. Ele deve vir na forma de um arquivo .zip.
+* Faça login na sua conta WordPress e visite a página do site de administração.
+* No site de administração da barra lateral, clique em Plugins e selecione Adicionar Novo.
+* Selecione Carregar perto do topo da página de plugins. Clique em Escolher arquivo e enviar o seu arquivo .zip. Em seguida, clique em Instalar agora.
+
+
+
+== Frequently Asked Questions ==
+
+= Alguma dúvida? =
+
+Envie um e-mail para: contato@seutec.com.br ou [acesse nossa página de suporte](http://www.seutec.com.br/migrador-de-link) para mais informações.
+
+
+
+== Screenshots ==
+
+1. Qualquer dúvida entre em contato conosco: contato@seutec.com.br
+
+
+== Changelog ==
+
+= 18 Jan 2015, Plugin versão 0.1 =
+* Add banner ads.
+
+
+
+== Terms of service ==
+
+The plugin source code is GPL, however use of Google Services through the plugin is governed by [Google's Terms of Service](http://www.google.com/policies/terms/) and [Privacy Policy](http://www.google.com/policies/privacy/). For products and services that can be used with the AdSense Plugin, such as AdSense, additional Terms of Service may also apply.
+
+== HTML5 Local Storage ==
+
+Google uses HTML5 Local Storage in the end-user's browser to record which kind of ad layout it serves to each browser; this includes the number of ads served and their position on the site. This helps Google compare ad performance across different ad layouts. The information is anonymous and is not personally identifiable. Do not use this Google-managed value for your own tracking; it may prevent the plugin from gathering reliable data about ad layouts. Your site should already include the appropriate disclosures about cookie usage, but please ensure that you [make the disclosures required by AdSense terms and conditions](https://support.google.com/adsense/answer/1348695).
