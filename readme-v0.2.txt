@@ -9,6 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Plug Oficial do Portal Seutec - O Portal da Tecnologia!
 == Description ==
+Com o plug Migrador de Link você muda o Link Permanente do seu WordPress, e cadastra a antiga estrutura no Link Permanente, redirecionando automaticamente todos os antigos links para o novo.
 
 
 [Visite a Central do Plug](http://www.seutec.com.br/migrador-de-link) para mais informações.
