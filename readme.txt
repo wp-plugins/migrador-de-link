@@ -62,11 +62,3 @@ Envie um e-mail para: contato@seutec.com.br ou [acesse nossa página de suporte]
 * Add banner ads.
 
 
-
-== Terms of service ==
-
-The plugin source code is GPL, however use of Google Services through the plugin is governed by [Google's Terms of Service](http://www.google.com/policies/terms/) and [Privacy Policy](http://www.google.com/policies/privacy/). For products and services that can be used with the AdSense Plugin, such as AdSense, additional Terms of Service may also apply.
-
-== HTML5 Local Storage ==
-
-Google uses HTML5 Local Storage in the end-user's browser to record which kind of ad layout it serves to each browser; this includes the number of ads served and their position on the site. This helps Google compare ad performance across different ad layouts. The information is anonymous and is not personally identifiable. Do not use this Google-managed value for your own tracking; it may prevent the plugin from gathering reliable data about ad layouts. Your site should already include the appropriate disclosures about cookie usage, but please ensure that you [make the disclosures required by AdSense terms and conditions](https://support.google.com/adsense/answer/1348695).
