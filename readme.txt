@@ -1,4 +1,4 @@
-=== Migrador de Lin ===
+=== Migrador de Link ===
 Contributors: seutec
 Tags: migrador, migrator, link
 Requires at least: 3.5
